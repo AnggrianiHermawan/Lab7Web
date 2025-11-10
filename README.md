@@ -1,4 +1,4 @@
-# Praktikum 7: PHP Dasar (Form Data Diri - Pink Style)
+# Praktikum 7: PHP Dasar (Form Data Diri)
 
 > **Nama:** Anggriani Hermawan 
 > **Mata Kuliah:** Pemrograman Web  
